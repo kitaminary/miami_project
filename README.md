@@ -1,5 +1,5 @@
 # Miami landing page
-- [DEMO LINK](https://kitaminary.github.io/miami-landing/#)
+- [DEMO LINK](https://kitaminary.github.io/miami-landing)
 - [Figma layout](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 - Tech stack: HTML5, SCSS;
 - Used Grid, Flex, BEM, SASS
